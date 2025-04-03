@@ -1,5 +1,5 @@
 
-"use client"
+
 import MeetingTypeList from '@/components/MeetingTypeList';
 import { currentUser } from '@clerk/nextjs/server';
 
