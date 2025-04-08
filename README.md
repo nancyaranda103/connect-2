@@ -1,7 +1,10 @@
 
 
 
-This a video Confrencing application Built using Next js and React and Typescript  with full Authentication 
+This a video Confrencing application Built using Next js and React and Typescript  with full Authentication  
+
+Also have the ability to schedule meetings with multiple users, generate meeting id links, video and audio calls, screen sharing and so on 
+
 
 Clerk js was used for auth 
 
