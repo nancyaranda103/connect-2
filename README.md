@@ -17,3 +17,16 @@ shad cn ui for componnet libary
 
 
 Auth Details for testing is 
+
+
+USER NAME :  Admin 
+
+
+
+
+EMAIL : user@connect.com
+
+
+
+
+PASSWORD:  Adminconnect
